@@ -7,6 +7,7 @@ public class Student {
         System.out.println("Tekrar merhaba");
 
         System.out.println("merhaba 3");
+        System.out.println("merhaba 4");
 
 
     }
